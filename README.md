@@ -108,14 +108,15 @@ I love exploring new technologies, creating real-world projects, and continuousl
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YashKag&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashKag&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=YashKag&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=YashKag&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKag&theme=tokyonight&hide_border=true&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKag&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
 ---
 
@@ -156,8 +157,9 @@ I love exploring new technologies, creating real-world projects, and continuousl
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YashKag/YashKag/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YashKag/YashKag/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
