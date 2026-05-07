@@ -1,18 +1,88 @@
-# 💫 About Me:
-I am a motivated and curious learner with a strong interest in technology and problem-solving. I enjoy learning new skills, working on practical projects, and improving my technical knowledge. I believe in continuous growth, teamwork, and applying what I learn to real-world challenges.
+# Hi there 👋 I'm Yash Kag
 
+### 🚀 Full Stack Developer | Tech Enthusiast | Problem Solver
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YashKag) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yash_kag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash Kag  ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Balipur Sarkar @BalipurSarkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashjagdishkag@gmail.com) 
+I’m a passionate developer who enjoys building practical and impactful digital solutions.
+I love exploring new technologies, creating real-world projects, and continuously improving my skills in software development.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YashKag&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YashKag&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+💡 Interested in:
+
+* Full Stack Development
+* Real-Time Applications
+* AI & Automation
+* Cloud & Deployment
+* Problem Solving
+
+⚡ I enjoy turning ideas into scalable and user-friendly applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YashKag&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YashKag)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/Yash_kag)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@BalipurSarkar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/YashKag)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yashjagdishkag@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+🚀 Real-Time Cricket Scoring System
+📺 LED Display Integration for Live Match Scores
+
+🚀 RouteMate
+🗺️ Smart navigation & route management platform
+
+🚀 Full Stack Web Applications
+⚛️ Built using React, Node.js, Tailwind CSS & Python
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YashKag\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=YashKag\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKag\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YashKag\&theme=tokyonight\&no-frame=true\&margin-w=10)
+
+---
+
+### ✨ Profile Views
+
+![](https://visitcount.itsvg.in/api?id=YashKag\&icon=5\&color=6)
+
+---
+
+### 💭 Developer Quote
+
+> “Code. Learn. Build. Improve. Repeat.”
